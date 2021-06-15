@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ibrahimbank
-- 👀 I’m interested in frontend
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Bankole Ibrahim
+- 👀 I’m a frontend developer
+- 🌱 My stacks include VanillaJavaScript, ReactJs, SASS, CSS, HTML5
+- 💞️ I’m looking to collaborate on a project with my team member at Zuri Team
 - 📫 How to reach me bankoleibrahim96@gmail.com
 
 <!---
