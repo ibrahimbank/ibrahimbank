@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bankole Ibrahim
 - 👀 I’m a frontend developer
-- 🌱 My stacks include VanillaJavaScript, ReactJs, SASS, CSS, HTML5
+- 🌱 My stacks include SASS, CSS, HTML5, ReactJs, Nextjs, Nodejs, Express, MongoDb and lots more
 - 💞️ I’m looking to collaborate on a projects
 - 📫 How to reach me bankoleibrahim96@gmail.com
 -  Follow me on twitter @gentleIbrahim2
